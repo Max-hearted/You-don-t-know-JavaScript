@@ -5,3 +5,7 @@
 2. 进入仓库settings
  
 3. 找到GitHub pages, 进行选择合适的分支 和 主题
+
+### MORE DETAILS 
+
+[what is GitHub Pages](https://pages.github.com/)
